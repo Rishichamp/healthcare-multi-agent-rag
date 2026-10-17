@@ -77,3 +77,7 @@ pytest tests/ -q
 ## Notes
 
 Built as part of Module 4 of a Generative AI engineering programme.
+
+## Author
+
+**Rishi Singh** — [GitHub](https://github.com/Rishichamp)
